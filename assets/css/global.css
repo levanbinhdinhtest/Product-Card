@@ -1,0 +1,41 @@
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.text-justify{
+    text-align: justify;
+}
+.d-block{
+    display: block;
+}
+.d-flex{
+    display: flex;
+}
+.container{
+    width:1140px;
+    margin:0 auto;
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+.ml-10{
+    margin-left: 23px;
+}
+.ml-30{
+    margin-left:30px;
+}
+.mr-30{
+    margin-right: 30px;
+}
+/* ... */
